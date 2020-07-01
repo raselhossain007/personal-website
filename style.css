@@ -30,6 +30,7 @@ p{
 .header-bg{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
 }
 section{
@@ -47,6 +48,7 @@ section{
 .biography-area{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
 }
 #text-center{
